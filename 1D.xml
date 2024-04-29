@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20240429">
+<channel id="ABCAustralia.au"><display-name>ABC Australia</channel>
+<channel id="AlJazeeraEnglish.qa"><display-name>Al Jazeera English</channel>
+<channel id="AnimaxAsia.sg"><display-name>Animax</channel>
+<channel id="ANTV.id"><display-name>ANTV</channel>
+<channel id="ArirangWorld.kr"><display-name>Arirang TV</channel>
+<channel id="AXN.id"><display-name>AXN</channel>
+<channel id="BBCEarthAsia.uk"><display-name>BBC Earth</channel>
+<channel id="BBCNewsAsiaPacific.uk"><display-name>BBC News</channel>
+<channel id="BloombergTVAsia.hk"><display-name>Bloomberg TV</channel>
+<channel id="BTV.id"><display-name>BTV</channel>
+<channel id="CBeebiesAsia.uk"><display-name>CBeebies</channel>
+<channel id="CCM.hk"><display-name>CCM</channel>
+<channel id="96"><display-name>Celebrities TV.id</channel>
+<channel id="CelestialMoviesIndonesia.id"><display-name>Celestial Movie</channel>
+<channel id="CGTNDocumentary.cn"><display-name>CGTN Documentary</channel>
+<channel id="CGTN.cn"><display-name>CGTN</channel>
+<channel id="Channel5.sg"><display-name>Channel 5</channel>
+<channel id="Channel8.sg"><display-name>Channel 8</channel>
+<channel id="CNA.sg"><display-name>Channel NewsAsia</channel>
+<channel id="ChannelU.sg"><display-name>Channel U</channel>
+<channel id="CinemaWorld.my"><display-name>Cinema World</channel>
+<channel id="CinemachiAction.uk"><display-name>Cinemachi Action.id</channel>
+<channel id="CinemachiKids.uk"><display-name>Cinemachi Kids.id</channel>
+<channel id="CinemachiMax.uk"><display-name>Cinemachi Max.id</channel>
+<channel id="CinemachiXtra.uk"><display-name>Cinemachi Xtra.id</channel>
+<channel id="Cinemachi.uk"><display-name>Cinemachi.id</channel>
+<channel id="CNBCAsia.sg"><display-name>CNBC Asia</channel>
+<channel id="CrimePlusInvestigationAsia.sg"><display-name>Crime Investigation</channel>
+<channel id="DAAITV.id"><display-name>DAAI TV</channel>
+<channel id="DreamWorksChannelAsia.us"><display-name>DreamWorks</channel>
+<channel id="DWEnglish.de"><display-name>DW (English)</channel>
+<channel id="Entertainment.id"><display-name>Entertainment.id</channel>
+<channel id="EuronewsEnglish.fr"><display-name>Euronews</channel>
+<channel id="FightSports.us"><display-name>Fight Sports.id</channel>
+<channel id="FMN.id"><display-name>FMN.id</channel>
+<channel id="FoodNetworkAsia.sg"><display-name>Food Network</display-name></channel>
+<channel id="FoxNewsChannel.us"><display-name>FOX News</channel>
+<channel id="France24English.fr"><display-name>France 24</channel>
+<channel id="GalaxyPremium.id"><display-name>Galaxy Premium</channel>
+<channel id="Galaxy.id"><display-name>Galaxy</channel>
+<channel id="GEM.sg"><display-name>GEM</channel>
+<channel id="GlobalTrekker.sg"><display-name>Global Trekker</channel>
+<channel id="GTV.id"><display-name>GTV</channel>
+<channel id="HBOFamilyAsia"><display-name>HBO Family</channel>
+<channel id="HBOHitsAsia"><display-name>HBO Hits</channel>
+<channel id="HBOSignatureAsia"><display-name>HBO Signature</channel>
+<channel id="HBOAsia"><display-name>HBO</channel>
+<channel id="5209"><display-name>History</channel>
+<channel id="HITSMovies.sg"><display-name>HITS MOVIES HD</channel>
+<channel id="HITS.sg"><display-name>HITS</channel>
+<channel id="IMC.id"><display-name>IMC</channel>
+<channel id="Indosiar.id"><display-name>Indosiar</channel>
+<channel id="iNews.id"><display-name>iNews</channel>
+<channel id="KPlus.sg"><display-name>K+</channel>
+<channel id="KidsTV.id"><display-name>Kids TV.id</channel>
+<channel id="KIX.hk"><display-name>KIX</channel>
+<channel id="KompasTV.id"><display-name>KOMPAS TV</channel>
+<channel id="LifetimeAsia.us"><display-name>Lifetime</channel>
+<channel id="LoveNature.ca"><display-name>Love Nature</channel>
+<channel id="MetroTV.id"><display-name>METRO TV</channel>
+<channel id="MNCTV.id"><display-name>MNCTV.id</channel>
+<channel id="Moji.id"><display-name>Moji</channel>
+<channel id="MTV90s.uk"><display-name>MTV 90s.id</channel>
+<channel id="MTVLive.uk"><display-name>MTV LIVE</channel>
+<channel id="MusicTV.id"><display-name>Music TV.id</channel>
+<channel id="MyCinemaAsia.id"><display-name>My Cinema Asia</channel>
+<channel id="MyCinema.id"><display-name>My Cinema</channel>
+<channel id="MyFamily.id"><display-name>My Family Channel.id</channel>
+<channel id="MyKidz.id"><display-name>My Kidz.id</channel>
+<channel id="NET.id"><display-name>Net TV</channel>
+<channel id="NHKWorldPremium.jp"><display-name>NHK World Premium</channel>
+<channel id="NHKWorldJapan.jp"><display-name>NHK World Japan</channel>
+<channel id="NickJrAsia.sg"><display-name>Nick Jr</channel>
+<channel id="NickelodeonAsia.sg"><display-name>Nickelodeon</channel>
+<channel id="OKTV.id"><display-name>OK TV.id</channel>
+<channel id="90"><display-name>Okezone TV.id</channel>
+<channel id="ONE.sg"><display-name>ONE HD</channel>
+<channel id="OutdoorChannel.us"><display-name>Outdoor Channel</channel>
+<channel id="RCTI.id"><display-name>RCTI</channel>
+<channel id="ROCKAction.sg"><display-name>ROCK Action</channel>
+<channel id="ROCKEntertainment.sg"><display-name>Rock Entertainment</channel>
+<channel id="RajawaliTV.id"><display-name>RTV</channel>
+<channel id="SCTV.id"><display-name>SCTV</channel>
+<channel id="SEAToday.id"><display-name>SEA Today</channel>
+<channel id="SindoNewsTV.id"><display-name>SindoNews.id</channel>
+<channel id="SoccerChannel.id"><display-name>Soccer Channel.id</channel>
+<channel id="Sportstars2.id"><display-name>Sportstars 2.id</channel>
+<channel id="Sportstars3.id"><display-name>Sportstars 3.id</channel>
+<channel id="Sportstars4.id"><display-name>Sportstars 4.id</channel>
+<channel id="Sportstars.id"><display-name>Sportstars.id</channel>
+<channel id="SPOTV.kr"><display-name>SpoTV</channel>
+<channel id="SPOTV2.kr"><display-name>SpoTV2</channel>
+<channel id="Suria.sg"><display-name>Suria</channel>
+<channel id="Thrill.hk"><display-name>Thrill</channel>
+<channel id="Trans7.id"><display-name>Trans7</channel>
+<channel id="TransTV.id"><display-name>TRANS TV</channel>
+<channel id="tvNMoviesAsia.hk"><display-name>tvN Movies</channel>
+<channel id="tvNAsia.hk"><display-name>tvN</channel>
+<channel id="tvOne.id"><display-name>TVOne</channel>
+<channel id="TVRISport.id"><display-name>TVRI Sport</display-name></channel>
+<channel id="TVRINasional.id"><display-name>TVRI</channel>
+<channel id="Vasantham.sg"><display-name>Vasantham</channel>
+<channel id="VisionPrime.id"><display-name>Vision Prime.id</channel>
+<channel id="ZeeBioskop.id"><display-name>Zee Bioskop</channel>
+<channel id="ZooMoo.sg"><display-name>ZooMoo</channel>
+<channel id="AniplusAsia.sg"><display-name>Aniplus</channel>
+<channel id="beINSports1.id"><display-name>beIN SPORTS 1 (Indikos)</display-name></channel>
+<channel id="beINSports3.id"><display-name>beIN SPORTS 3 (Indikos)</display-name></channel>
+<channel id="NaDooKorean.id"><display-name>NaDoo Korean</display-name></channel>
+<channel id="beINSports1.id"><display-name>BeIN Sports 1 ID</display-name></channel>
+<channel id="beINSports3.id"><display-name>BeIN Sports 3 ID</display-name></channel>
+<channel id="InvestigationDiscovery.in"><display-name>Investigation Discovery.in</display-name></channel>
+<channel id="10000000005920000"><display-name>Discovery.in</display-name></channel>
+<channel id="10000000024270000"><display-name>TLC HD World.in</display-name></channel>
+<channel id="10000000024790000"><display-name>Animal Planet HD.in</display-name></channel>
+<channel id="EatNGo.id"><display-name>Eat and Go</channel>
+<channel id="CNNIndonesia.id"><display-name>CNN Indonesia</channel>
+<channel id="5250"><display-name>HGTV</channel>
+<channel id="DuniaLain.id"><display-name>Dunia Lain</display-name></channel>
+<programme start="20240428171000 +0000" stop="20240428174500 +0000" channel="ABCAustralia.au"><title lang="id">Offsiders</title></programme>
+<programme start="20240428174500 +0000" stop="20240428181500 +0000" channel="ABCAustralia.au"><title lang="id">Close of Business</title></programme>
+<programme start="20240428181500 +0000" stop="20240428183000 +0000" channel="ABCAustralia.au"><title lang="id">ABC News Overnight</title></programme>
+<programme start="20240428183000 +0000" stop="20240428190000 +0000" channel="ABCAustralia.au"><title lang="id">ABC News Regional</title></programme>
+<programme start="20240428190000 +0000" stop="20240428200000 +0000" channel="ABCAustralia.au"><title lang="id">Landline</title></programme>
+<programme start="20240428200000 +0000" stop="20240428230000 +0000" channel="ABCAustralia.au"><title lang="id">News Breakfast</title></programme>
+<programme start="20240428230000 +0000" stop="20240429020000 +0000" channel="ABCAustralia.au"><title lang="id">ABC News Mornings</title></programme>
+<programme start="20240429020000 +0000" stop="20240429030000 +0000" channel="ABCAustralia.au"><title lang="id">ABC News at Noon</title></programme>
+<programme start="20240429030000 +0000" stop="20240429040000 +0000" channel="ABCAustralia.au"><title lang="id">Gardening Australia</title></programme>
+<programme start="20240429040000 +0000" stop="20240429050000 +0000" channel="ABCAustralia.au"><title lang="id">Muster Dogs</title></programme>
+<programme start="20240429050000 +0000" stop="20240429060000 +0000" channel="ABCAustralia.au"><title lang="id">Landline</title></programme>
+<programme start="20240429060000 +0000" stop="20240429070000 +0000" channel="ABCAustralia.au"><title lang="id">Afternoon Briefing</title></programme>
+<programme start="20240429070000 +0000" stop="20240429080000 +0000" channel="ABCAustralia.au"><title lang="id">ABC News with Joe O&apos;Brien</title></programme>
+<programme start="20240429080000 +0000" stop="20240429085000 +0000" channel="ABCAustralia.au"><title lang="id">Grand Designs Australia</title></programme>
+<programme start="20240429085000 +0000" stop="20240429090000 +0000" channel="ABCAustralia.au"><title lang="id">8 Nights Out West</title></programme>
+<programme start="20240429090000 +0000" stop="20240429093000 +0000" channel="ABCAustralia.au"><title lang="id">ABC National News</title></programme>
+<programme start="20240429093000 +0000" stop="20240429100000 +0000" channel="ABCAustralia.au"><title lang="id">7 . 30</title></programme>
+<programme start="20240429100000 +0000" stop="20240429104500 +0000" channel="ABCAustralia.au"><title lang="id">ABC News Tonight</title></programme>
+<programme start="20240429104500 +0000" stop="20240429110000 +0000" channel="ABCAustralia.au"><title lang="id">The Business</title></programme>
+<programme start="20240429110000 +0000" stop="20240429120000 +0000" channel="ABCAustralia.au"><title lang="id">The World</title></programme>
+<programme start="20240429120000 +0000" stop="20240429123000 +0000" channel="ABCAustralia.au"><title lang="id">Foreign Correspondent</title></programme>
+<programme start="20240429123000 +0000" stop="20240429130000 +0000" channel="ABCAustralia.au"><title lang="id">The Pacific</title></programme>
+<programme start="20240429130000 +0000" stop="20240429140000 +0000" channel="ABCAustralia.au"><title lang="id">Q and A</title></programme>
+<programme start="20240429140000 +0000" stop="20240429141500 +0000" channel="ABCAustralia.au"><title lang="id">ABC Late News</title></programme>
+<programme start="20240429141500 +0000" stop="20240429143000 +0000" channel="ABCAustralia.au"><title lang="id">The Business</title></programme>
+<programme start="20240429143000 +0000" stop="20240429150000 +0000" channel="ABCAustralia.au"><title lang="id">India Votes 2024</title></programme>
+<programme start="20240429150000 +0000" stop="20240429154500 +0000" channel="ABCAustralia.au"><title lang="id">Etoa : A Kokoda Story</title></programme>
+<programme start="20240429154500 +0000" stop="20240429164000 +0000" channel="ABCAustralia.au"><title lang="id">Grand Designs Australia</title></programme>
+<programme start="20240429164000 +0000" stop="20240429174000 +0000" channel="ABCAustralia.au"><title lang="id">Gardening Australia</title></programme>
+<programme start="20240428170000 +0000" stop="20240428191500 +0000" channel="CNNIndonesia.id"><title lang="id">CNN Indonesia Newsroom</title></programme>
+<programme start="20240428191500 +0000" stop="20240428194500 +0000" channel="CNNIndonesia.id"><title lang="id">The World Tonight</title></programme>
+<programme start="20240428194500 +0000" stop="20240428204500 +0000" channel="CNNIndonesia.id"><title lang="id">Kabinet Bayangan</title></programme>
+<programme start="20240428204500 +0000" stop="20240428220000 +0000" channel="CNNIndonesia.id"><title lang="id">Prime News</title></programme>
+<programme start="20240428220000 +0000" stop="20240428223000 +0000" channel="CNNIndonesia.id"><title lang="id">Gapai Kemuliaan</title></programme>
+<programme start="20240428223000 +0000" stop="20240428234500 +0000" channel="CNNIndonesia.id"><title lang="id">Redaksi Pagi</title></programme>
+<programme start="20240428234500 +0000" stop="20240429003000 +0000" channel="CNNIndonesia.id"><title lang="id">CNN Indonesia New Day</title></programme>
+<programme start="20240429003000 +0000" stop="20240429013000 +0000" channel="CNNIndonesia.id"><title lang="id">Good Morning</title></programme>
+<programme start="20240429013000 +0000" stop="20240429023000 +0000" channel="CNNIndonesia.id"><title lang="id">Bisnis Dan Referensi</title></programme>
+<programme start="20240429023000 +0000" stop="20240429030000 +0000" channel="CNNIndonesia.id"><title lang="id">Corporate Action</title></programme>
+<programme start="20240429030000 +0000" stop="20240429030500 +0000" channel="CNNIndonesia.id"><title lang="id">Top Update</title></programme>
+<programme start="20240429030500 +0000" stop="20240429040000 +0000" channel="CNNIndonesia.id"><title lang="id">CNN Indonesia Today</title></programme>
+<programme start="20240429040000 +0000" stop="20240429040500 +0000" channel="CNNIndonesia.id"><title lang="id">Top Update</title></programme>
+<programme start="20240429040500 +0000" stop="20240429050000 +0000" channel="CNNIndonesia.id"><title lang="id">CNN Indonesia News Hour</title></programme>
+<programme start="20240429050000 +0000" stop="20240429050500 +0000" channel="CNNIndonesia.id"><title lang="id">Top Update</title></programme>
+<programme start="20240429050500 +0000" stop="20240429060000 +0000" channel="CNNIndonesia.id"><title lang="id">CNN Indonesia News Hour</title></programme>
+<programme start="20240429060000 +0000" stop="20240429060500 +0000" channel="CNNIndonesia.id"><title lang="id">Top Update</title></programme>
+<programme start="20240429060500 +0000" stop="20240429061500 +0000" channel="CNNIndonesia.id"><title lang="id">CNN Indonesia News Hour</title></programme>
+<programme start="20240429061500 +0000" stop="20240429071500 +0000" channel="CNNIndonesia.id"><title lang="id">CNN Indonesia Connected</title></programme>
+<programme start="20240429071500 +0000" stop="20240429081500 +0000" channel="CNNIndonesia.id"><title lang="id">Redaksi</title></programme>
+<programme start="20240429081500 +0000" stop="20240429090000 +0000" channel="CNNIndonesia.id"><title lang="id">CNN Indonesia News Report</title></programme>
+<programme start="20240429090000 +0000" stop="20240429093000 +0000" channel="CNNIndonesia.id"><title lang="id">CNN Indonesia News Update</title></programme>
+<programme start="20240429093000 +0000" stop="20240429100000 +0000" channel="CNNIndonesia.id"><title lang="id">CNN Indonesia Newsroom</title></programme>
+<programme start="20240429100000 +0000" stop="20240429100500 +0000" channel="CNNIndonesia.id"><title lang="id">Top Update</title></programme>
+<programme start="20240429100500 +0000" stop="20240429110000 +0000" channel="CNNIndonesia.id"><title lang="id">CNN Indonesia Newsroom</title></programme>
+<programme start="20240429110000 +0000" stop="20240429110500 +0000" channel="CNNIndonesia.id"><title lang="id">Top Update</title></programme>
+<programme start="20240429110500 +0000" stop="20240429113000 +0000" channel="CNNIndonesia.id"><title lang="id">CNN Indonesia Newsroom</title></programme>
+<programme start="20240429113000 +0000" stop="20240429120000 +0000" channel="CNNIndonesia.id"><title lang="id">Prime News</title></programme>
+<programme start="20240429120000 +0000" stop="20240429120500 +0000" channel="CNNIndonesia.id"><title lang="id">Top Update</title></programme>
+<programme start="20240429120500 +0000" stop="20240429130000 +0000" channel="CNNIndonesia.id"><title lang="id">Prime News</title></programme>
+<programme start="20240429130000 +0000" stop="20240429130500 +0000" channel="CNNIndonesia.id"><title lang="id">Top Update</title></programme>
+<programme start="20240429130500 +0000" stop="20240429143000 +0000" channel="CNNIndonesia.id"><title lang="id">Political Show</title></programme>
+<programme start="20240429143000 +0000" stop="20240429150000 +0000" channel="CNNIndonesia.id"><title lang="id">The World Tonight</title></programme>
+<programme start="20240429150000 +0000" stop="20240429160000 +0000" channel="CNNIndonesia.id"><title lang="id">Prime News</title></programme>
+<programme start="20240429160000 +0000" stop="20240429163000 +0000" channel="CNNIndonesia.id"><title lang="id">The World Tonight</title></programme>
+<programme start="20240429163000 +0000" stop="20240429170000 +0000" channel="CNNIndonesia.id"><title lang="id">Redaksi Malam</title></programme>
+<programme start="20240428170000 +0000" stop="20240428173000 +0000" channel="DuniaLain.id"><title lang="id">Misteri Dunia - Eps. 49</title></programme>
+<programme start="20240428173000 +0000" stop="20240428181500 +0000" channel="DuniaLain.id"><title lang="id">Secret Story - Eps. 87</title></programme>
+<programme start="20240428181500 +0000" stop="20240428184500 +0000" channel="DuniaLain.id"><title lang="id">Dua Dunia - Eps. 422</title></programme>
+<programme start="20240428184500 +0000" stop="20240428194500 +0000" channel="DuniaLain.id"><title lang="id">Zona Angker 2018 - Eps. 1, 2</title></programme>
+<programme start="20240428194500 +0000" stop="20240428204500 +0000" channel="DuniaLain.id"><title lang="id">Kumis - Eps. 111</title></programme>
+<programme start="20240428204500 +0000" stop="20240428211500 +0000" channel="DuniaLain.id"><title lang="id">Ssstt Jangan Sendirian - Eps. 17</title></programme>
+<programme start="20240428211500 +0000" stop="20240428213000 +0000" channel="DuniaLain.id"><title lang="id">Lensa Mistis - Eps. 2</title></programme>
+<programme start="20240428213000 +0000" stop="20240428221500 +0000" channel="DuniaLain.id"><title lang="id">Centhini - Eps. 29</title></programme>
+<programme start="20240428221500 +0000" stop="20240428230000 +0000" channel="DuniaLain.id"><title lang="id">Kisah Nyata - Eps. 114</title></programme>
+<programme start="20240428230000 +0000" stop="20240428233000 +0000" channel="DuniaLain.id"><title lang="id">Pajri - Eps. 22</title></programme>
+<programme start="20240428233000 +0000" stop="20240429000000 +0000" channel="DuniaLain.id"><title lang="id">Kampung Horor - Eps. 25</title></programme>
+<programme start="20240429000000 +0000" stop="20240429003000 +0000" channel="DuniaLain.id"><title lang="id">Tirai Alam - Eps. 22</title></programme>
+<programme start="20240429003000 +0000" stop="20240429010000 +0000" channel="DuniaLain.id"><title lang="id">Satpam Horor - Eps. 25</title></programme>
+<programme start="20240429010000 +0000" stop="20240429013000 +0000" channel="DuniaLain.id"><title lang="id">Misteri Dunia - Eps. 45</title></programme>
+<programme start="20240429013000 +0000" stop="20240429023000 +0000" channel="DuniaLain.id"><title lang="id">Zona Angker S4 - Eps. 3</title></programme>
+<programme start="20240429023000 +0000" stop="20240429033000 +0000" channel="DuniaLain.id"><title lang="id">Kumis - Eps. 112</title></programme>
+<programme start="20240429033000 +0000" stop="20240429041500 +0000" channel="DuniaLain.id"><title lang="id">Gost - Eps. 2</title></programme>
+<programme start="20240429041500 +0000" stop="20240429044500 +0000" channel="DuniaLain.id"><title lang="id">Kampung Horor - Eps. 21</title></programme>
+<programme start="20240429044500 +0000" stop="20240429053000 +0000" channel="DuniaLain.id"><title lang="id">Centhini - Eps. 25</title></programme>
+<programme start="20240429053000 +0000" stop="20240429060000 +0000" channel="DuniaLain.id"><title lang="id">Pajri - Eps. 23</title></programme>
+<programme start="20240429060000 +0000" stop="20240429063000 +0000" channel="DuniaLain.id"><title lang="id">Tirai Alam - Eps. 23</title></programme>
+<programme start="20240429063000 +0000" stop="20240429071500 +0000" channel="DuniaLain.id"><title lang="id">Secret Story - Eps. 83</title></programme>
+<programme start="20240429071500 +0000" stop="20240429074500 +0000" channel="DuniaLain.id"><title lang="id">Satpam Horor - Eps. 21</title></programme>
+<programme start="20240429074500 +0000" stop="20240429081500 +0000" channel="DuniaLain.id"><title lang="id">Dua Dunia - Eps. 423</title></programme>
+<programme start="20240429081500 +0000" stop="20240429091500 +0000" channel="DuniaLain.id"><title lang="id">Zona Angker S3 - Eps. 1, 2</title></programme>
+<programme start="20240429091500 +0000" stop="20240429101500 +0000" channel="DuniaLain.id"><title lang="id">Kumis - Eps. 111</title></programme>
+<programme start="20240429101500 +0000" stop="20240429110000 +0000" channel="DuniaLain.id"><title lang="id">Jangan Nonton Sendirian - Eps. 18</title></programme>
+<programme start="20240429110000 +0000" stop="20240429114500 +0000" channel="DuniaLain.id"><title lang="id">Centhini - Eps. 17</title></programme>
+<programme start="20240429114500 +0000" stop="20240429121500 +0000" channel="DuniaLain.id"><title lang="id">Pajri - Eps. 86</title></programme>
+<programme start="20240429121500 +0000" stop="20240429124500 +0000" channel="DuniaLain.id"><title lang="id">Satpam Horor - Eps. 86</title></programme>
+<programme start="20240429124500 +0000" stop="20240429133000 +0000" channel="DuniaLain.id"><title lang="id">Secret Story - Eps. 196</title></programme>
+<programme start="20240429133000 +0000" stop="20240429140000 +0000" channel="DuniaLain.id"><title lang="id">Misteri Tempat Angker - Eps. 26</title></programme>
+<programme start="20240429140000 +0000" stop="20240429143000 +0000" channel="DuniaLain.id"><title lang="id">El Adventure Camping Horor - Eps. 21</title></programme>
+<programme start="20240429143000 +0000" stop="20240429150000 +0000" channel="DuniaLain.id"><title lang="id">Misteri Dunia - Eps. 49</title></programme>
+<programme start="20240429150000 +0000" stop="20240429160000 +0000" channel="DuniaLain.id"><title lang="id">Zona Angker S4 - Eps. 5</title></programme>
+<programme start="20240429160000 +0000" stop="20240429170000 +0000" channel="DuniaLain.id"><title lang="id">Kumis - Eps. 112</title></programme>
+<programme start="20240428170000 +0000" stop="20240428170500 +0000" channel="EuronewsEnglish.fr"><title lang="id">5 Minutes</title></programme>
+<programme start="20240428170500 +0000" stop="20240428173000 +0000" channel="EuronewsEnglish.fr"><title lang="id">Brussels, My Love ?</title></programme>
+<programme start="20240428173000 +0000" stop="20240428173500 +0000" channel="EuronewsEnglish.fr"><title lang="id">5 Minutes</title></programme>
+<programme start="20240428173500 +0000" stop="20240428174500 +0000" channel="EuronewsEnglish.fr"><title lang="id">Brussels, My Love ?</title></programme>
+<programme start="20240428174500 +0000" stop="20240428180000 +0000" channel="EuronewsEnglish.fr"><title lang="id">Brussels, My Love ?</title></programme>
+<programme start="20240428180000 +0000" stop="20240428180500 +0000" channel="EuronewsEnglish.fr"><title lang="id">5 Minutes</title></programme>
+<programme start="20240428180500 +0000" stop="20240428181600 +0000" channel="EuronewsEnglish.fr"><title lang="id">Witness</title></programme>
+<programme start="20240428181600 +0000" stop="20240428183000 +0000" channel="EuronewsEnglish.fr"><title lang="id">Witness</title></programme>
+<programme start="20240428183000 +0000" stop="20240428183500 +0000" channel="EuronewsEnglish.fr"><title lang="id">5 Minutes</title></programme>
+<programme start="20240428183500 +0000" stop="20240428184500 +0000" channel="EuronewsEnglish.fr"><title lang="id">Witness</title></programme>
+<programme start="20240428184500 +0000" stop="20240428190000 +0000" channel="EuronewsEnglish.fr"><title lang="id">News</title></programme>
+<programme start="20240428190000 +0000" stop="20240428190500 +0000" channel="EuronewsEnglish.fr"><title lang="id">5 Minutes</title></programme>
+<programme start="20240428190500 +0000" stop="20240428193000 +0000" channel="EuronewsEnglish.fr"><title lang="id">Brussels, My Love ?</title></programme>
+<programme start="20240428193000 +0000" stop="20240428193500 +0000" channel="EuronewsEnglish.fr"><title lang="id">5 Minutes</title></programme>
+<programme start="20240428193500 +0000" stop="20240428194500 +0000" channel="EuronewsEnglish.fr"><title lang="id">Brussels, My Love ?</title></programme>
+<programme start="20240428194500 +0000" stop="20240428195000 +0000" channel="EuronewsEnglish.fr"><title lang="id">Brussels, My Love ?</title></programme>
+<programme start="20240428195000 +0000" stop="20240428200000 +0000" channel="EuronewsEnglish.fr"><title lang="id">News</title></programme>
+<programme start="20240428200000 +0000" stop="20240428200500 +0000" channel="EuronewsEnglish.fr"><title lang="id">5 Minutes</title></programme>
+<programme start="20240428200500 +0000" stop="20240428201600 +0000" channel="EuronewsEnglish.fr"><title lang="id">Witness</title></programme>
+<programme start="20240428201600 +0000" stop="20240428203000 +0000" channel="EuronewsEnglish.fr"><title lang="id">Witness</title></programme>
+<programme start="20240428203000 +0000" stop="20240428203700 +0000" channel="EuronewsEnglish.fr"><title lang="id">5 Minutes</title></programme>
+<programme start="20240428203700 +0000" stop="20240428204700 +0000" channel="EuronewsEnglish.fr"><title lang="id">Witness</title></programme>
+<programme start="20240428204700 +0000" stop="20240428210000 +0000" channel="EuronewsEnglish.fr"><title lang="id">News</title></programme>
+<programme start="20240428210000 +0000" stop="20240428210500 +0000" channel="EuronewsEnglish.fr"><title lang="id">5 Minutes</title></programme>
+<programme start="20240428210500 +0000" stop="20240428213000 +0000" channel="EuronewsEnglish.fr"><title lang="id">Brussels, My Love ?</title></programme>
+<programme start="20240428213000 +0000" stop="20240428213500 +0000" channel="EuronewsEnglish.fr"><title lang="id">5 Minutes</title></programme>
+<programme start="20240428213500 +0000" stop="20240428214500 +0000" channel="EuronewsEnglish.fr"><title lang="id">Brussels, My Love ?</title></programme>
+<programme start="20240428214500 +0000" stop="20240428220000 +0000" channel="EuronewsEnglish.fr"><title lang="id">Brussels, My Love ?</title></programme>
+<programme start="20240428220000 +0000" stop="20240428220500 +0000" channel="EuronewsEnglish.fr"><title lang="id">The European Debrief</title></programme>
+<programme start="20240428220500 +0000" stop="20240428223000 +0000" channel="EuronewsEnglish.fr"><title lang="id">Brussels, My Love ?</title></programme>
+<programme start="20240428223000 +0000" stop="20240428223500 +0000" channel="EuronewsEnglish.fr"><title lang="id">The European Debrief</title></programme>
+<programme start="20240428223500 +0000" stop="20240428224500 +0000" channel="EuronewsEnglish.fr"><title lang="id">Brussels, My Love ?</title></programme>
+<programme start="20240428224500 +0000" stop="20240428230000 +0000" channel="EuronewsEnglish.fr"><title lang="id">Brussels, My Love ?</title></programme>
+<programme start="20240428230000 +0000" stop="20240428230500 +0000" channel="EuronewsEnglish.fr"><title lang="id">The European Debrief</title></programme>
+<programme start="20240428230500 +0000" stop="20240428231700 +0000" channel="EuronewsEnglish.fr"><title lang="id">Witness</title></programme>
+<programme start="20240428231700 +0000" stop="20240428233300 +0000" channel="EuronewsEnglish.fr"><title lang="id">Witness</title></programme>
+<programme start="20240428233300 +0000" stop="20240428234400 +0000" channel="EuronewsEnglish.fr"><title lang="id">Witness</title></programme>
+<programme start="20240428234400 +0000" stop="20240429000000 +0000" channel="EuronewsEnglish.fr"><title lang="id">News</title></programme>
+<programme start="20240429000000 +0000" stop="20240429000500 +0000" channel="EuronewsEnglish.fr"><title lang="id">The European Debrief</title></programme>
+<programme start="20240429000500 +0000" stop="20240429003000 +0000" channel="EuronewsEnglish.fr"><title lang="id">Brussels, My Love ?</title></programme>
+<programme start="20240429003000 +0000" stop="20240429003500 +0000" channel="EuronewsEnglish.fr"><title lang="id">The European Debrief</title></programme>
+<programme start="20240429003500 +0000" stop="20240429004500 +0000" channel="EuronewsEnglish.fr"><title lang="id">Brussels, My Love ?</title></programme>
+<programme start="20240429004500 +0000" stop="20240429010000 +0000" channel="EuronewsEnglish.fr"><title lang="id">Brussels, My Love ?</title></programme>
+<programme start="20240429010000 +0000" stop="20240429010500 +0000" channel="EuronewsEnglish.fr"><title lang="id">The European Debrief</title></programme>
+<programme start="20240429010500 +0000" stop="20240429011600 +0000" channel="EuronewsEnglish.fr"><title lang="id">Witness</title></programme>
+<programme start="20240429011600 +0000" stop="20240429013000 +0000" channel="EuronewsEnglish.fr"><title lang="id">Witness</title></programme>
+<programme start="20240429013000 +0000" stop="20240429013600 +0000" channel="EuronewsEnglish.fr"><title lang="id">The European Debrief</title></programme>
+<programme start="20240429013600 +0000" stop="20240429014700 +0000" channel="EuronewsEnglish.fr"><title lang="id">Witness</title></programme>
+<programme start="20240429014700 +0000" stop="20240429020000 +0000" channel="EuronewsEnglish.fr"><title lang="id">News</title></programme>
+<programme start="20240429020000 +0000" stop="20240429020500 +0000" channel="EuronewsEnglish.fr"><title lang="id">The European Debrief</title></programme>
+<programme start="20240429020500 +0000" stop="20240429023000 +0000" channel="EuronewsEnglish.fr"><title lang="id">Brussels, My Love ?</title></programme>
+<programme start="20240429023000 +0000" stop="20240429023500 +0000" channel="EuronewsEnglish.fr"><title lang="id">The European Debrief</title></programme>
+<programme start="20240429023500 +0000" stop="20240429024500 +0000" channel="EuronewsEnglish.fr"><title lang="id">Brussels, My Love ?</title></programme>
+<programme start="20240429024500 +0000" stop="20240429030000 +0000" channel="EuronewsEnglish.fr"><title lang="id">Brussels, My Love ?</title></programme>
+<programme start="20240429030000 +0000" stop="20240429030500 +0000" channel="EuronewsEnglish.fr"><title lang="id">The European Debrief</title></programme>
+<programme start="20240429030500 +0000" stop="20240429031600 +0000" channel="EuronewsEnglish.fr"><title lang="id">Witness</title></programme>
+<programme start="20240429031600 +0000" stop="20240429033000 +0000" channel="EuronewsEnglish.fr"><title lang="id">Witness</title></programme>
+<programme start="20240429033000 +0000" stop="20240429033500 +0000" channel="EuronewsEnglish.fr"><title lang="id">The European Debrief</title></programme>
+<programme start="20240429033500 +0000" stop="20240429034500 +0000" channel="EuronewsEnglish.fr"><title lang="id">Witness</title></programme>
+<programme start="20240429034500 +0000" stop="20240429040000 +0000" channel="EuronewsEnglish.fr"><title lang="id">News</title></programme>
+<programme start="20240429040000 +0000" stop="20240429041500 +0000" channel="EuronewsEnglish.fr"><title lang="id">The European Debrief</title></programme>
+<programme start="20240429041500 +0000" stop="20240429043000 +0000" channel="EuronewsEnglish.fr"><title lang="id">The European Debrief</title></programme>
+<programme start="20240429043000 +0000" stop="20240429050000 +0000" channel="EuronewsEnglish.fr"><title lang="id">The European Debrief</title></programme>
+<programme start="20240429050000 +0000" stop="20240429051500 +0000" channel="EuronewsEnglish.fr"><title lang="id">Wake Up Europe</title></programme>
+<programme start="20240429051500 +0000" stop="20240429053000 +0000" channel="EuronewsEnglish.fr"><title lang="id">Wake Up Europe</title></programme>
+<programme start="20240429053000 +0000" stop="20240429060000 +0000" channel="EuronewsEnglish.fr"><title lang="id">Wake Up Europe</title></programme>
+<programme start="20240429060000 +0000" stop="20240429061500 +0000" channel="EuronewsEnglish.fr"><title lang="id">Wake Up Europe</title></programme>
+<programme start="20240429061500 +0000" stop="20240429063000 +0000" channel="EuronewsEnglish.fr"><title lang="id">Wake Up Europe</title></programme>
+<programme start="20240429063000 +0000" stop="20240429070000 +0000" channel="EuronewsEnglish.fr"><title lang="id">Wake Up Europe</title></programme>
+<programme start="20240429070000 +0000" stop="20240429071500 +0000" channel="EuronewsEnglish.fr"><title lang="id">Wake Up Europe</title></programme>
+<programme start="20240429071500 +0000" stop="20240429073000 +0000" channel="EuronewsEnglish.fr"><title lang="id">Wake Up Europe</title></programme>
+<programme start="20240429073000 +0000" stop="20240429080000 +0000" channel="EuronewsEnglish.fr"><title lang="id">Wake Up Europe</title></programme>
+<programme start="20240429080000 +0000" stop="20240429081500 +0000" channel="EuronewsEnglish.fr"><title lang="id">Wake Up Europe</title></programme>
+<programme start="20240429081500 +0000" stop="20240429083000 +0000" channel="EuronewsEnglish.fr"><title lang="id">Wake Up Europe</title></programme>
+<programme start="20240429083000 +0000" stop="20240429090000 +0000" channel="EuronewsEnglish.fr"><title lang="id">Wake Up Europe</title></programme>
+<programme start="20240429090000 +0000" stop="20240429091500 +0000" channel="EuronewsEnglish.fr"><title lang="id">Wake Up Europe</title></programme>
+<programme start="20240429091500 +0000" stop="20240429093000 +0000" channel="EuronewsEnglish.fr"><title lang="id">Wake Up Europe</title></programme>
+<programme start="20240429093000 +0000" stop="20240429100000 +0000" channel="EuronewsEnglish.fr"><title lang="id">Wake Up Europe</title></programme>
+<programme start="20240429100000 +0000" stop="20240429101500 +0000" channel="EuronewsEnglish.fr"><title lang="id">Euronews Now</title></programme>
+<programme start="20240429101500 +0000" stop="20240429103000 +0000" channel="EuronewsEnglish.fr"><title lang="id">Euronews Now</title></programme>
+<programme start="20240429103000 +0000" stop="20240429110000 +0000" channel="EuronewsEnglish.fr"><title lang="id">Euronews Now</title></programme>
+<programme start="20240429110000 +0000" stop="20240429111500 +0000" channel="EuronewsEnglish.fr"><title lang="id">Euronews Now</title></programme>
+<programme start="20240429111500 +0000" stop="20240429113000 +0000" channel="EuronewsEnglish.fr"><title lang="id">Euronews Now</title></programme>
+<programme start="20240429113000 +0000" stop="20240429120000 +0000" channel="EuronewsEnglish.fr"><title lang="id">Euronews Now</title></programme>
+<programme start="20240429120000 +0000" stop="20240429121500 +0000" channel="EuronewsEnglish.fr"><title lang="id">Euronews Now</title></programme>
+<programme start="20240429121500 +0000" stop="20240429123000 +0000" channel="EuronewsEnglish.fr"><title lang="id">Euronews Now</title></programme>
+<programme start="20240429123000 +0000" stop="20240429130000 +0000" channel="EuronewsEnglish.fr"><title lang="id">Euronews Now</title></programme>
+<programme start="20240429130000 +0000" stop="20240429131500 +0000" channel="EuronewsEnglish.fr"><title lang="id">Euronews Now</title></programme>
+<programme start="20240429131500 +0000" stop="20240429133000 +0000" channel="EuronewsEnglish.fr"><title lang="id">Euronews Now</title></programme>
+<programme start="20240429133000 +0000" stop="20240429140000 +0000" channel="EuronewsEnglish.fr"><title lang="id">Euronews Now</title></programme>
+<programme start="20240429140000 +0000" stop="20240429141500 +0000" channel="EuronewsEnglish.fr"><title lang="id">Euronews Now</title></programme>
+<programme start="20240429141500 +0000" stop="20240429143000 +0000" channel="EuronewsEnglish.fr"><title lang="id">Euronews Now</title></programme>
+<programme start="20240429143000 +0000" stop="20240429150000 +0000" channel="EuronewsEnglish.fr"><title lang="id">Euronews Now</title></programme>
+<programme start="20240429150000 +0000" stop="20240429151500 +0000" channel="EuronewsEnglish.fr"><title lang="id">Euronews Now</title></programme>
+<programme start="20240429151500 +0000" stop="20240429153000 +0000" channel="EuronewsEnglish.fr"><title lang="id">Euronews Now</title></programme>
+<programme start="20240429153000 +0000" stop="20240429160000 +0000" channel="EuronewsEnglish.fr"><title lang="id">Euronews Now</title></programme>
+<programme start="20240429160000 +0000" stop="20240429161500 +0000" channel="EuronewsEnglish.fr"><title lang="id">Euronews Now</title></programme>
+<programme start="20240429161500 +0000" stop="20240429163000 +0000" channel="EuronewsEnglish.fr"><title lang="id">Euronews Now</title></programme>
+<programme start="20240429163000 +0000" stop="20240429170000 +0000" channel="EuronewsEnglish.fr"><title lang="id">Euronews Now</title></programme>
+<programme start="20240428170000 +0000" stop="20240428180000 +0000" channel="NaDooKorean.id"><title lang="id">Marriage Contract Eps 8</title></programme>
+<programme start="20240428180000 +0000" stop="20240428190000 +0000" channel="NaDooKorean.id"><title lang="id">Bong&apos;s Happy Restaurant Eps 41</title></programme>
+<programme start="20240428190000 +0000" stop="20240428200000 +0000" channel="NaDooKorean.id"><title lang="id">Jang Bo-Ri, Is Here Eps 36</title></programme>
+<programme start="20240428200000 +0000" stop="20240428210000 +0000" channel="NaDooKorean.id"><title lang="id">Kill Me Heal me Eps 4</title></programme>
+<programme start="20240428210000 +0000" stop="20240428220000 +0000" channel="NaDooKorean.id"><title lang="id">Shopaholic Louis Eps 13</title></programme>
+<programme start="20240428220000 +0000" stop="20240428230000 +0000" channel="NaDooKorean.id"><title lang="id">Partner for Justice Eps 8</title></programme>
+<programme start="20240428230000 +0000" stop="20240429000000 +0000" channel="NaDooKorean.id"><title lang="id">Jang Bo-Ri, Is Here Eps 36</title></programme>
+<programme start="20240429000000 +0000" stop="20240429010000 +0000" channel="NaDooKorean.id"><title lang="id">Good Bye Mr. Black Eps 12</title></programme>
+<programme start="20240429010000 +0000" stop="20240429020000 +0000" channel="NaDooKorean.id"><title lang="id">W: Two Worlds Apart Eps 12</title></programme>
+<programme start="20240429020000 +0000" stop="20240429030000 +0000" channel="NaDooKorean.id"><title lang="id">Shopaholic Louis Eps 13</title></programme>
+<programme start="20240429030000 +0000" stop="20240429040000 +0000" channel="NaDooKorean.id"><title lang="id">Partner for Justice Eps 8</title></programme>
+<programme start="20240429040000 +0000" stop="20240429050000 +0000" channel="NaDooKorean.id"><title lang="id">Royal Family Eps 10</title></programme>
+<programme start="20240429050000 +0000" stop="20240429060000 +0000" channel="NaDooKorean.id"><title lang="id">Good Bye Mr. Black Eps 12</title></programme>
+<programme start="20240429060000 +0000" stop="20240429070000 +0000" channel="NaDooKorean.id"><title lang="id">Marriage Contract Eps 8</title></programme>
+<programme start="20240429070000 +0000" stop="20240429080000 +0000" channel="NaDooKorean.id"><title lang="id">Kill Me Heal me Eps 4</title></programme>
+<programme start="20240429080000 +0000" stop="20240429090000 +0000" channel="NaDooKorean.id"><title lang="id">Shopaholic Louis Eps 13</title></programme>
+<programme start="20240429090000 +0000" stop="20240429100000 +0000" channel="NaDooKorean.id"><title lang="id">Comparison Tours Eps 24</title></programme>
+<programme start="20240429100000 +0000" stop="20240429110000 +0000" channel="NaDooKorean.id"><title lang="id">Royal Family Eps 10</title></programme>
+<programme start="20240429110000 +0000" stop="20240429120000 +0000" channel="NaDooKorean.id"><title lang="id">W: Two Worlds Apart Eps 12</title></programme>
+<programme start="20240429120000 +0000" stop="20240429130000 +0000" channel="NaDooKorean.id"><title lang="id">Partner for Justice Eps 8</title></programme>
+<programme start="20240429130000 +0000" stop="20240429140000 +0000" channel="NaDooKorean.id"><title lang="id">Good Bye Mr. Black Eps 12</title></programme>
+<programme start="20240429140000 +0000" stop="20240429150000 +0000" channel="NaDooKorean.id"><title lang="id">Comparison Tours Eps 24</title></programme>
+<programme start="20240429150000 +0000" stop="20240429160000 +0000" channel="NaDooKorean.id"><title lang="id">Bong&apos;s Happy Restaurant Eps 41</title></programme>
+<programme start="20240429160000 +0000" stop="20240429165959 +0000" channel="NaDooKorean.id"><title lang="id">Partner for Justice Eps 8</title></programme>
+<programme start="20240429170000 +0000" stop="20240429180000 +0000" channel="NaDooKorean.id"><title lang="id">Marriage Contract Eps 9</title></programme>
+<programme start="20240429180000 +0000" stop="20240429190000 +0000" channel="NaDooKorean.id"><title lang="id">Bong&apos;s Happy Restaurant Eps 42</title></programme>
+<programme start="20240429190000 +0000" stop="20240429200000 +0000" channel="NaDooKorean.id"><title lang="id">Jang Bo-Ri, Is Here Eps 37</title></programme>
+<programme start="20240429200000 +0000" stop="20240429210000 +0000" channel="NaDooKorean.id"><title lang="id">Kill Me Heal me Eps 5</title></programme>
+<programme start="20240429210000 +0000" stop="20240429220000 +0000" channel="NaDooKorean.id"><title lang="id">Shopaholic Louis Eps 14</title></programme>
+<programme start="20240429220000 +0000" stop="20240429230000 +0000" channel="NaDooKorean.id"><title lang="id">Partner for Justice Eps 9</title></programme>
+<programme start="20240429230000 +0000" stop="20240430000000 +0000" channel="NaDooKorean.id"><title lang="id">Jang Bo-Ri, Is Here Eps 37</title></programme>
+<programme start="20240430000000 +0000" stop="20240430010000 +0000" channel="NaDooKorean.id"><title lang="id">Good Bye Mr. Black Eps 13</title></programme>
+<programme start="20240430010000 +0000" stop="20240430020000 +0000" channel="NaDooKorean.id"><title lang="id">W: Two Worlds Apart Eps 13</title></programme>
+<programme start="20240430020000 +0000" stop="20240430030000 +0000" channel="NaDooKorean.id"><title lang="id">Shopaholic Louis Eps 14</title></programme>
+<programme start="20240430030000 +0000" stop="20240430040000 +0000" channel="NaDooKorean.id"><title lang="id">Partner for Justice Eps 9</title></programme>
+<programme start="20240430040000 +0000" stop="20240430050000 +0000" channel="NaDooKorean.id"><title lang="id">Royal Family Eps 11</title></programme>
+<programme start="20240430050000 +0000" stop="20240430060000 +0000" channel="NaDooKorean.id"><title lang="id">Good Bye Mr. Black Eps 13</title></programme>
+<programme start="20240430060000 +0000" stop="20240430070000 +0000" channel="NaDooKorean.id"><title lang="id">Marriage Contract Eps 9</title></programme>
+<programme start="20240430070000 +0000" stop="20240430080000 +0000" channel="NaDooKorean.id"><title lang="id">Kill Me Heal me Eps 5</title></programme>
+<programme start="20240430080000 +0000" stop="20240430090000 +0000" channel="NaDooKorean.id"><title lang="id">Shopaholic Louis Eps 14</title></programme>
+<programme start="20240430090000 +0000" stop="20240430100000 +0000" channel="NaDooKorean.id"><title lang="id">Comparison Tours Eps 1</title></programme>
+<programme start="20240430100000 +0000" stop="20240430110000 +0000" channel="NaDooKorean.id"><title lang="id">Royal Family Eps 11</title></programme>
+<programme start="20240430110000 +0000" stop="20240430120000 +0000" channel="NaDooKorean.id"><title lang="id">W: Two Worlds Apart Eps 13</title></programme>
+<programme start="20240430120000 +0000" stop="20240430130000 +0000" channel="NaDooKorean.id"><title lang="id">Partner for Justice Eps 9</title></programme>
+<programme start="20240430130000 +0000" stop="20240430140000 +0000" channel="NaDooKorean.id"><title lang="id">Good Bye Mr. Black Eps 13</title></programme>
+<programme start="20240430140000 +0000" stop="20240430150000 +0000" channel="NaDooKorean.id"><title lang="id">Comparison Tours Eps 1</title></programme>
+<programme start="20240430150000 +0000" stop="20240430160000 +0000" channel="NaDooKorean.id"><title lang="id">Bong&apos;s Happy Restaurant Eps 42</title></programme>
+<programme start="20240430160000 +0000" stop="20240430165959 +0000" channel="NaDooKorean.id"><title lang="id">Partner for Justice Eps 9</title></programme>
+</tv>
