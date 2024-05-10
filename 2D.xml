@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20240510">
+<channel id="FightSports.us"><display-name>Fight Sports</channel>
+<channel id="SPOTV.kr"><display-name>SpoTV</channel>
+<channel id="474"><display-name>SpoTV2</channel>
 <channel id="ABCAustralia.au"><display-name>ABC Australia</display-name></channel>
 <channel id="AlJazeeraEnglish.qa"><display-name>Al Jazeera English</display-name></channel>
 <channel id="AnimaxAsia.sg"><display-name>Animax</display-name></channel>
