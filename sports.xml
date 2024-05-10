@@ -3,12 +3,12 @@
 <channel id="HGTVWest.us"><display-name>HGTVWest.us</display-name></channel>
 <channel id="CuriosityChannel.us"><display-name>Curiosity</display-name></channel>
 <channel id="CuriosityChannel.us"><display-name>Curiosity Channel</display-name></channel>
-<channel id="Eleven1.pt"><display-name>Eleven 1</display-name></channel>
-<channel id="Eleven2.pt"><display-name>Eleven 2</display-name></channel>
-<channel id="Eleven3.pt"><display-name>Eleven 3</display-name></channel>
-<channel id="Eleven4.pt"><display-name>Eleven 4</display-name></channel>
-<channel id="Eleven5.pt"><display-name>Eleven 5</display-name></channel>
-<channel id="Eleven6.pt"><display-name>Eleven 6</display-name></channel>
+<channel id="Eleven1.pt"><display-name>DAZN Eleven 1</display-name></channel>
+<channel id="Eleven2.pt"><display-name>DAZN Eleven 2</display-name></channel>
+<channel id="Eleven3.pt"><display-name>DAZN Eleven 3</display-name></channel>
+<channel id="Eleven4.pt"><display-name>DAZN Eleven 4</display-name></channel>
+<channel id="Eleven5.pt"><display-name>DAZN Eleven 5</display-name></channel>
+<channel id="Eleven6.pt"><display-name>DAZN Eleven 6</display-name></channel>
 <programme start="20240509170000 +0000" stop="20240509180000 +0000" channel="CuriosityChannel.us"><title lang="id">Maritime</title></programme>
 <programme start="20240509180000 +0000" stop="20240509190000 +0000" channel="CuriosityChannel.us"><title lang="id">The Ice Is a Beast</title></programme>
 <programme start="20240509190000 +0000" stop="20240509200000 +0000" channel="CuriosityChannel.us"><title lang="id">Inner Planets</title></programme>
