@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20240513">
+  <channel id="MilanTV.it"><display-name>Milan TV</display-name></channel>
+<channel id="canalplus-ligue-1-10504"><display-name>Canal+ Ligue 1</display-name></channel>
 <channel id="beINSports.qa"><display-name>BEIN MY 1</display-name></channel>
 <channel id="beINSports1.id"><display-name>beIN SPORTS 1 (Indikos)</display-name></channel>
 <channel id="beINSports2.qa"><display-name>BEIN MY 2</display-name></channel>
