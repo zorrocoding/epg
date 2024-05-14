@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20240513">
+  <channel id="DAZN1.de"><display-name>DAZN 1 De</display-name></channel>
+<channel id="ZonaDAZN.it"><display-name>Zona DAZN</display-name></channel>
   <channel id="MilanTV.it"><display-name>Milan TV</display-name></channel>
 <channel id="canalplus-ligue-1-10504"><display-name>Canal+ Ligue 1</display-name></channel>
 <channel id="beINSports.qa"><display-name>BEIN MY 1</display-name></channel>
@@ -46,6 +48,98 @@
 <channel id=""Eleven1.be"><display-name>DAZN Eleven Sports 1</display-name></channel>
 <channel id=""Eleven2.be"><display-name>DAZN Eleven Sports 2</display-name></channel>
 <channel id=""RedBullTV.at"><display-name>RedBull TV</display-name></channel>
+  <programme start="20240514104000 +0000" stop="20240514144000 +0000" channel="DAZN1.de"><title lang="de">DAZN ONLY - Eurosport Giro d&apos;Italia 2024</title><category lang="de">Sport</category></programme>
+<programme start="20240514154600 +0000" stop="20240514180100 +0000" channel="DAZN1.de"><title lang="de">Liga F 2023/2024</title><category lang="de">Sport</category></programme>
+<programme start="20240514163000 +0000" stop="20240514220000 +0000" channel="DAZN1.de"><title lang="de">Champions Chess Tour 2024</title><category lang="de">Sport</category></programme>
+<programme start="20240514171500 +0000" stop="20240514193000 +0000" channel="DAZN1.de"><title lang="de">LaLiga 2023/2024</title><category lang="de">Sport</category></programme>
+<programme start="20240514175500 +0000" stop="20240514235500 +0000" channel="DAZN1.de"><title lang="de">Fury v Usyk 2024</title><category lang="de">Sport</category></programme>
+<programme start="20240514191500 +0000" stop="20240514213000 +0000" channel="DAZN1.de"><title lang="de">LaLiga 2023/2024</title><category lang="de">Sport</category></programme>
+<programme start="20240514194500 +0000" stop="20240514220000 +0000" channel="DAZN1.de"><title lang="de">LaLiga 2023/2024</title><category lang="de">Sport</category></programme>
+<programme start="20240514230000 +0000" stop="20240515030000 +0000" channel="DAZN1.de"><title lang="de">NFL Extracts 2024</title><category lang="de">Sport</category></programme>
+<programme start="20240515000000 +0000" stop="20240515040000 +0000" channel="DAZN1.de"><title lang="de">NFL Extracts 2024</title><category lang="de">Sport</category></programme>
+<programme start="20240515094000 +0000" stop="20240515134000 +0000" channel="DAZN1.de"><title lang="de">DAZN ONLY - Eurosport Giro d&apos;Italia 2024</title><category lang="de">Sport</category></programme>
+<programme start="20240515095500 +0000" stop="20240515124000 +0000" channel="DAZN1.de"><title lang="de">J1 League 2024</title><category lang="de">Sport</category></programme>
+<programme start="20240515163000 +0000" stop="20240515220000 +0000" channel="DAZN1.de"><title lang="de">Champions Chess Tour 2024</title><category lang="de">Sport</category></programme>
+<programme start="20240515171500 +0000" stop="20240515193000 +0000" channel="DAZN1.de"><title lang="de">LaLiga 2023/2024</title><category lang="de">Sport</category></programme>
+<programme start="20240515171500 +0000" stop="20240515193000 +0000" channel="DAZN1.de"><title lang="de">LaLiga 2023/2024</title><category lang="de">Sport</category></programme>
+<programme start="20240515175500 +0000" stop="20240515235500 +0000" channel="DAZN1.de"><title lang="de">Fury v Usyk 2024</title><category lang="de">Sport</category></programme>
+<programme start="20240515184000 +0000" stop="20240515205500 +0000" channel="DAZN1.de"><title lang="de">Ligue 1 2023/2024</title><category lang="de">Sport</category></programme>
+<programme start="20240515184000 +0000" stop="20240515205500 +0000" channel="DAZN1.de"><title lang="de">Ligue 1 2023/2024</title><category lang="de">Sport</category></programme>
+<programme start="20240515184500 +0000" stop="20240515220000 +0000" channel="DAZN1.de"><title lang="de">Coppa Italia 2023/2024</title><category lang="de">Sport</category></programme>
+<programme start="20240515194500 +0000" stop="20240515220000 +0000" channel="DAZN1.de"><title lang="de">LaLiga 2023/2024</title><category lang="de">Sport</category></programme>
+<programme start="20240515194500 +0000" stop="20240515220000 +0000" channel="DAZN1.de"><title lang="de">LaLiga 2023/2024</title><category lang="de">Sport</category></programme>
+<programme start="20240515230000 +0000" stop="20240516030000 +0000" channel="DAZN1.de"><title lang="de">NFL Extracts 2024</title><category lang="de">Sport</category></programme>
+<programme start="20240513220000 +0000" stop="20240514060000 +0000" channel="DAZN2HD.de"><title lang="de">Sendepause</title><category lang="de">Sendepause</category></programme>
+<programme start="20240514060000 +0000" stop="20240514080000 +0000" channel="DAZN2HD.de"><title lang="de">LaLiga: FC Granada - Real Madrid</title><category lang="de">Fußball</category></programme>
+<programme start="20240514080000 +0000" stop="20240514083000 +0000" channel="DAZN2HD.de"><title lang="de">Best of DAZN: Highlights</title><category lang="de">Sport (allgemein)</category></programme>
+<programme start="20240514083000 +0000" stop="20240514103000 +0000" channel="DAZN2HD.de"><title lang="de">1. Bundesliga: FC Augsburg - VFB Stuttgart</title><category lang="de">Erste Liga</category></programme>
+<programme start="20240514103000 +0000" stop="20240514123000 +0000" channel="DAZN2HD.de"><title lang="de">1. Bundesliga: VFL Bochum - Bayer 04 Leverkusen</title><category lang="de">Erste Liga</category></programme>
+<programme start="20240514123000 +0000" stop="20240514130000 +0000" channel="DAZN2HD.de"><title lang="de">Best of DAZN: Highlights</title><category lang="de">Sport (allgemein)</category></programme>
+<programme start="20240514130000 +0000" stop="20240514150000 +0000" channel="DAZN2HD.de"><title lang="de">Serie A: SSC Neapel - FC Bologna</title><category lang="de">Fußball</category></programme>
+<programme start="20240514150000 +0000" stop="20240514155000 +0000" channel="DAZN2HD.de"><title lang="de">3. Liga Highlights: 37. Spieltag</title><category lang="de">Sportmagazin</category></programme>
+<programme start="20240514155000 +0000" stop="20240514162000 +0000" channel="DAZN2HD.de"><title lang="de">FC Bayern World Squad: Episode 4</title><category lang="de">Sportmagazin</category></programme>
+<programme start="20240514162000 +0000" stop="20240514165000 +0000" channel="DAZN2HD.de"><title lang="de">FC Bayern World Squad: FC Bayern World Squad 2023 : Episode 5</title><category lang="de">Sportmagazin</category></programme>
+<programme start="20240514165000 +0000" stop="20240514171500 +0000" channel="DAZN2HD.de"><title lang="de">FC Bayern World Squad: Episode 6</title><category lang="de">Sportmagazin</category></programme>
+<programme start="20240514171500 +0000" stop="20240514172500 +0000" channel="DAZN2HD.de"><title lang="de">Best of DAZN: Highlights</title><category lang="de">Sport (allgemein)</category></programme>
+<programme start="20240514172500 +0000" stop="20240514194000 +0000" channel="DAZN2HD.de"><title lang="de">LaLiga: CA Osasuna - RCD Mallorca</title><category lang="de">Fußball</category></programme>
+<programme start="20240514194000 +0000" stop="20240514195500 +0000" channel="DAZN2HD.de"><title lang="de">Best of DAZN: Highlights</title><category lang="de">Sport (allgemein)</category></programme>
+<programme start="20240514195500 +0000" stop="20240514220500 +0000" channel="DAZN2HD.de"><title lang="de">LaLiga: FC Girona - FC Villarreal</title><category lang="de">Fußball</category></programme>
+<programme start="20240514220500 +0000" stop="20240515060000 +0000" channel="DAZN2HD.de"><title lang="de">Sendepause</title><category lang="de">Sendepause</category></programme>
+<programme start="20240515060000 +0000" stop="20240515080000 +0000" channel="DAZN2HD.de"><title lang="de">UEFA Champions League: PSG - Borussia Dortmund</title><category lang="de">UEFA Champions League</category></programme>
+<programme start="20240515080000 +0000" stop="20240515083000 +0000" channel="DAZN2HD.de"><title lang="de">Best of DAZN: UEFA Champions League Rewind</title><category lang="de">Sport (allgemein)</category></programme>
+<programme start="20240515083000 +0000" stop="20240515103000 +0000" channel="DAZN2HD.de"><title lang="de">1. Bundesliga: FC Bayern München - VFL Wolfsburg</title><category lang="de">Erste Liga</category></programme>
+<programme start="20240515103000 +0000" stop="20240515123000 +0000" channel="DAZN2HD.de"><title lang="de">1. Bundesliga: SV Darmstadt 98 - TSG 1899 Hoffenheim</title><category lang="de">Erste Liga</category></programme>
+<programme start="20240515123000 +0000" stop="20240515130000 +0000" channel="DAZN2HD.de"><title lang="de">Best of DAZN: UEFA Champions League Rewind</title><category lang="de">Sport (allgemein)</category></programme>
+<programme start="20240515130000 +0000" stop="20240515150000 +0000" channel="DAZN2HD.de"><title lang="de">Serie A: AC Mailand - Cagliari Calcio</title><category lang="de">Fußball</category></programme>
+<programme start="20240515150000 +0000" stop="20240515153000 +0000" channel="DAZN2HD.de"><title lang="de">Best of DAZN: UEFA Champions League Rewind</title><category lang="de">Sport (allgemein)</category></programme>
+<programme start="20240515153000 +0000" stop="20240515172500 +0000" channel="DAZN2HD.de"><title lang="de">UEFA Champions League: PSG - Borussia Dortmund</title><category lang="de">UEFA Champions League</category></programme>
+<programme start="20240515172500 +0000" stop="20240515193500 +0000" channel="DAZN2HD.de"><title lang="de">LaLiga: FC Sevilla - FC Cádiz</title><category lang="de">Fußball</category></programme>
+<programme start="20240515193500 +0000" stop="20240515195500 +0000" channel="DAZN2HD.de"><title lang="de">Google Pixle Frauen Bundesliga Show: 21. Spieltag</title><category lang="de">Sportmagazin</category></programme>
+<programme start="20240515195500 +0000" stop="20240515220000 +0000" channel="DAZN2HD.de"><title lang="de">LaLiga: FC Getafe - Atlético Madrid</title><category lang="de">Fußball</category></programme>
+<programme start="20240514000000 +0000" stop="20240514020000 +0000" channel="ZonaDAZN.it"><title lang="it">Le trasmissioni inizieranno alle ore 12</title></programme>
+<programme start="20240514020000 +0000" stop="20240514040000 +0000" channel="ZonaDAZN.it"><title lang="it">Le trasmissioni inizieranno alle ore 12</title></programme>
+<programme start="20240514040000 +0000" stop="20240514060000 +0000" channel="ZonaDAZN.it"><title lang="it">Le trasmissioni inizieranno alle ore 12</title></programme>
+<programme start="20240514060000 +0000" stop="20240514080000 +0000" channel="ZonaDAZN.it"><title lang="it">Le trasmissioni inizieranno alle ore 12</title></programme>
+<programme start="20240514080000 +0000" stop="20240514100000 +0000" channel="ZonaDAZN.it"><title lang="it">Le trasmissioni inizieranno alle ore 12</title></programme>
+<programme start="20240514100000 +0000" stop="20240514121500 +0000" channel="ZonaDAZN.it"><title lang="it">Serie A 2023/2024: Lecce-Udinese (REPLAY)</title></programme>
+<programme start="20240514121500 +0000" stop="20240514141000 +0000" channel="ZonaDAZN.it"><title lang="it">Serie A 2023/2024: Napoli-Bologna (REPLAY)</title></programme>
+<programme start="20240514141000 +0000" stop="20240514143000 +0000" channel="ZonaDAZN.it"><title lang="it">Basketball &amp;amp; Conversations</title></programme>
+<programme start="20240514143000 +0000" stop="20240514162000 +0000" channel="ZonaDAZN.it"><title lang="it">Serie A 2023/2024: Juventus-Salernitana (REPLAY)</title></programme>
+<programme start="20240514162000 +0000" stop="20240514174500 +0000" channel="ZonaDAZN.it"><title lang="it">Originals: Green Lions</title></programme>
+<programme start="20240514174500 +0000" stop="20240514181500 +0000" channel="ZonaDAZN.it"><title lang="it">Players Only</title></programme>
+<programme start="20240514181500 +0000" stop="20240514184000 +0000" channel="ZonaDAZN.it"><title lang="it">ITALY LC - Serie A Features</title></programme>
+<programme start="20240514184000 +0000" stop="20240514190000 +0000" channel="ZonaDAZN.it"><title lang="it">My Skills</title></programme>
+<programme start="20240514190000 +0000" stop="20240514192000 +0000" channel="ZonaDAZN.it"><title lang="it">Top Gol</title></programme>
+<programme start="20240514192000 +0000" stop="20240514194000 +0000" channel="ZonaDAZN.it"><title lang="it">Top Gol</title></programme>
+<programme start="20240514194000 +0000" stop="20240514195500 +0000" channel="ZonaDAZN.it"><title lang="it">Lost in the weekend</title></programme>
+<programme start="20240514195500 +0000" stop="20240514205000 +0000" channel="ZonaDAZN.it"><title lang="it">Primera División 2023/2024: Girona-Villarreal (LIVE)</title></programme>
+<programme start="20240514205000 +0000" stop="20240514221400 +0000" channel="ZonaDAZN.it"><title lang="it">Italy LC - Matchroom USA Features</title></programme>
+<programme start="20240514221400 +0000" stop="20240515000000 +0000" channel="ZonaDAZN.it"><title lang="it">Le trasmissioni inizieranno alle ore 12</title></programme>
+<programme start="20240514221400 +0000" stop="20240515000000 +0000" channel="ZonaDAZN.it"><title lang="it">Le trasmissioni inizieranno alle ore 12</title></programme>
+<programme start="20240515000000 +0000" stop="20240515020000 +0000" channel="ZonaDAZN.it"><title lang="it">Le trasmissioni inizieranno alle ore 12</title></programme>
+<programme start="20240515000000 +0000" stop="20240515020000 +0000" channel="ZonaDAZN.it"><title lang="it">Le trasmissioni inizieranno alle ore 12</title></programme>
+<programme start="20240515020000 +0000" stop="20240515040000 +0000" channel="ZonaDAZN.it"><title lang="it">Le trasmissioni inizieranno alle ore 12</title></programme>
+<programme start="20240515020000 +0000" stop="20240515040000 +0000" channel="ZonaDAZN.it"><title lang="it">Le trasmissioni inizieranno alle ore 12</title></programme>
+<programme start="20240515040000 +0000" stop="20240515060000 +0000" channel="ZonaDAZN.it"><title lang="it">Le trasmissioni inizieranno alle ore 12</title></programme>
+<programme start="20240515040000 +0000" stop="20240515043000 +0000" channel="ZonaDAZN.it"><title lang="it">Le trasmissioni inizieranno alle ore 12</title></programme>
+<programme start="20240515060000 +0000" stop="20240515080000 +0000" channel="ZonaDAZN.it"><title lang="it">Le trasmissioni inizieranno alle ore 12</title></programme>
+<programme start="20240515080000 +0000" stop="20240515100000 +0000" channel="ZonaDAZN.it"><title lang="it">Le trasmissioni inizieranno alle ore 12</title></programme>
+<programme start="20240515100000 +0000" stop="20240515115500 +0000" channel="ZonaDAZN.it"><title lang="it">Primera División 2023/2024: Granada-Real Madrid (REPLAY)</title></programme>
+<programme start="20240515115500 +0000" stop="20240515121500 +0000" channel="ZonaDAZN.it"><title lang="it">Top Gol</title></programme>
+<programme start="20240515121500 +0000" stop="20240515140500 +0000" channel="ZonaDAZN.it"><title lang="it">Primera División 2023/2024: Barcelona-Real Sociedad (REPLAY)</title></programme>
+<programme start="20240515140500 +0000" stop="20240515143000 +0000" channel="ZonaDAZN.it"><title lang="it">Italy LC - La Liga Features</title></programme>
+<programme start="20240515143000 +0000" stop="20240515162500 +0000" channel="ZonaDAZN.it"><title lang="it">Serie A 2023/2024: Frosinone-Internazionale (REPLAY)</title></programme>
+<programme start="20240515162500 +0000" stop="20240515164000 +0000" channel="ZonaDAZN.it"><title lang="it">Indimenticabili</title></programme>
+<programme start="20240515164000 +0000" stop="20240515165500 +0000" channel="ZonaDAZN.it"><title lang="it">Top Gol</title></programme>
+<programme start="20240515165500 +0000" stop="20240515172500 +0000" channel="ZonaDAZN.it"><title lang="it">Players Only</title></programme>
+<programme start="20240515172500 +0000" stop="20240515193500 +0000" channel="ZonaDAZN.it"><title lang="it">Primera División 2023/2024: Sevilla-Cádiz (LIVE)</title></programme>
+<programme start="20240515193500 +0000" stop="20240515195000 +0000" channel="ZonaDAZN.it"><title lang="it">Bordocam</title></programme>
+<programme start="20240515195000 +0000" stop="20240515205000 +0000" channel="ZonaDAZN.it"><title lang="it">Top Gol</title></programme>
+<programme start="20240515205000 +0000" stop="20240515215600 +0000" channel="ZonaDAZN.it"><title lang="it">Italy LC - Olympic Boxing</title></programme>
+<programme start="20240515215600 +0000" stop="20240516000000 +0000" channel="ZonaDAZN.it"><title lang="it">Le trasmissioni inizieranno alle ore 12</title></programme>
+<programme start="20240516000000 +0000" stop="20240516020000 +0000" channel="ZonaDAZN.it"><title lang="it">Le trasmissioni inizieranno alle ore 12</title></programme>
+<programme start="20240516020000 +0000" stop="20240516040000 +0000" channel="ZonaDAZN.it"><title lang="it">Le trasmissioni inizieranno alle ore 12</title></programme>
+<programme start="20240516040000 +0000" stop="20240516043000 +0000" channel="ZonaDAZN.it"><title lang="it">Le trasmissioni inizieranno alle ore 12</title></programme>
 <programme start="20240512170000 +0000" stop="20240512200500 +0000" channel="474"><title lang="ms">PSA 2023/24: El Gouna International 2024</title><desc lang="ms">The men&apos;s and women&apos;s World No.1s Ali Farag and Nour ElSherbini headline the Platinum-level El Gouna International Squash Open at the El Gouna Conference and Culture Center in Egypt.</desc><icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/SPOTV2_IVP_LAND_367x207.jpg"/><rating system="LPF"><value>U</value></rating></programme>
 <programme start="20240512200500 +0000" stop="20240512230000 +0000" channel="474"><title lang="ms">(L) 2024 Major League Baseball</title><desc lang="ms">LIVE: Major League Baseball is the most historic professional sports league in the United States and consists of 30 member clubs in the U.S. and Canada</desc><icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/SPOTV2_IVP_LAND_367x207.jpg"/><rating system="LPF"><value>U</value></rating></programme>
 <programme start="20240512230000 +0000" stop="20240513043000 +0000" channel="474"><title lang="ms">European Archery C&apos;ships ESSEN 2024</title><desc lang="ms">The world&apos;s top recurve archers vie for 6 quota places for the Paris 2024 Olympic Games at the penultimate qualifier tournament in Essen, Germany.</desc><icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/SPOTV2_IVP_LAND_367x207.jpg"/><rating system="LPF"><value>U</value></rating></programme>
