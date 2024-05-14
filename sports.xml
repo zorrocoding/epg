@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20240513">
+  <channel id="DAZN1HD.uk"><display-name>DAZN 1 UK</display-name></channel>
+<channel id="SportdigitalFUSSBALL.de"><display-name>DAZN SPORTDIGITAL</display-name></channel>
+<channel id="jplfr01"><display-name>DAZN Eleven Pro League 1 FR</display-name><url>https://telenet.tv</url></channel>
   <channel id="DAZN1.de"><display-name>DAZN 1 De</display-name></channel>
 <channel id="ZonaDAZN.it"><display-name>Zona DAZN</display-name></channel>
   <channel id="MilanTV.it"><display-name>Milan TV</display-name></channel>
